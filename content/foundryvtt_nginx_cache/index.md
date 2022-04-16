@@ -1,8 +1,8 @@
 +++
-title="demo"
-description="a basic demo of zola."
+title="NGINX cache settings for FoundryVTT 9.X"
+description="NGINX cache settings for FoundryVTT 9.X"
+date=2022-04-16
 draft=true
-date=2019-08-06
 
 [taxonomies]
 tags = ["demo", "zola", "highlighting"]
