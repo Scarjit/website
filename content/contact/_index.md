@@ -1,14 +1,11 @@
 +++
 title="contact"
-description="a basic demo of zola. Does it work?"
+description="contact info"
 
-[extra]
-date=2019-03-26
 +++
 
 # some links
 
-- [zola, the static site generator written in rust](https://getzola.org)
-- [source code for zerm](https://github.com/ejmg/zerm)
-- [Terminal, the theme zerm was derived from](https://github.com/panr/hugo-theme-terminal)
-- [Terminimal, another theme for zola based on Terminal](https://github.com/pawroman/zola-theme-terminimal)
+- [Github](https://github.com/Scarjit)
+- [LinkedIn](https://www.linkedin.com/in/ferdinand-l-b1124321b)
+- ferdinand@linnenberg.dev
