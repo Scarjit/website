@@ -16,13 +16,13 @@ steps:
     - name: clean
       image: alpine
       commands:
-        - rm -r /tmp/output/*
+        - rm -rf /tmp/output/*
       volumes:
          - name: output
            path: /tmp/output
 
     - name: build
-      image: ghcr.io/getzola/zola:v0.15.2
+      image: ghcr.io/getzola/zola:v0.15.3
       entrypoint: [/bin/zola]
       command: ["build", "--output-dir", "/tmp/output/files/"]
       volumes:
