@@ -1,4 +1,4 @@
-# zerm
+# website
 
 a minimalist and dark theme for [Zola](https://getzola.org).
 
