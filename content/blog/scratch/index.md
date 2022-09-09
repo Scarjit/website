@@ -1,12 +1,12 @@
 +++
-title="demo"
-description="a basic demo of zola."
+title="Example page"
+description="Example description"
 draft=true
-date=2019-08-06
+date=2022-09-09
 
 [taxonomies]
-tags = ["demo", "zola", "highlighting"]
-categories = ["programming", "wu tang",]
+tags = ["example tag 1", "example tag 2"]
+categories = ["example"]
 
 [extra]
 +++
