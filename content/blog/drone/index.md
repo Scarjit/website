@@ -17,33 +17,58 @@ Here's a general demo of Zola and how things look with zerm.
 
 To be honest, i don't really know :)
 
-## Header II
+# Bill of materials
 
-Want block quotes? We got block quotes.
+The links below are not affiliate links.
+I just inserted them for convenience.
 
-Remember the wise words of Ras Kass:
+## Electronics
+ - 4x[40A speed controller](https://www.amazon.de/gp/product/B08CN3TDQ4)
+   - I can't really go over 25 amps, or my distribution board will probably burn
+ - A 5 & 12V [distribution board](https://www.amazon.de/gp/product/B08ZCLJZ4Z) 
 
-> In Hotel Rwanda, reminder to honor these street scholars who ask why
-U.S. Defense is twenty percent of the tax dollar. Bush gave 6.46 billion to
-Halliburton for troops support efforts in Iraq; meanwhile, the hood is hurting,
-please believe that.
-> 
-> -- "Verses", _Wu-Tang Meets The Indie Culture_
+## Motors
+ - 2x[2205 2300KV CW](https://www.amazon.de/gp/product/B08Z47LLF9)
+ - 2x[2205 2300KV CCW](https://www.amazon.de/gp/product/B08Z49WNR1)
 
-### Header III
+## Propellers
+ - [5055 3-blade](https://www.amazon.de/gp/product/B0792Q74RT)
 
-| members          | age | notable album                                | to be messed with?                                                      |
-|------------------|-----|----------------------------------------------|-------------------------------------------------------------------------|
-| GZA              | 52  | Liquid Swords                                | no                                                                      |
-| ODB              | 35  | Return to the 36 Chambers: The Dirty Version | absolutely not                                                          |
-| Raekwon Da Chef  | 49  | Only Built 4 Cuban Linx...                   | `"no"`  that's spanish for "no"                                         |
-| Ghostface Killah | 49  | Fishscale                                    | i swear you keep asking that question and the answer ain't gonna change |
-| Inspectah Deck   | 49  | CZARFACE                                     | `protect ya neck, boy`                                                  |
+## Battery
 
+ - [3S 2200mAh 11.1V](https://www.amazon.de/-/en/gp/product/B08R6ZMK78)  Battery Pack
+ - [Battery Charger](https://www.amazon.de/gp/product/B07SS4VWSS)
 
-#### Header IV
+## Etcetera
+ 
+ - Some [screws & Nuts](https://www.amazon.de/gp/product/B08JCKH31Q)
+ - [14 AWG wires](https://www.amazon.de/gp/product/B074QR9DT9)
+ - [XT60 Battery connectors](https://www.amazon.de/gp/product/B07VYRTKTJ)
+ 
+## 3D works
 
-Here's a video of my rabbit, Smalls, loaf'n to lofi beats:
+### Printing
 
-{{ youtube(id="UUpuz8IObcs") }}
+ - A 3D printer
+   - I use the [Anycubic Mega S](https://www.anycubic.com/products/anycubic-i3-mega-s) with some upgrades
+     - [Replacement fan for the PSU](https://www.amazon.de/gp/product/B07ZBS1YV1)
+     - [Silent fan for the hotend](https://www.amazon.de/gp/product/B009NQLT0M)
+     - [TMC2209 drivers](https://www.amazon.de/gp/product/B07GJ7L48H)
+       - Note: You need 5, but the seller currently only sells in packs of 4
+     - I also added a lamp for octopi timelapses
+        - I'm planing to replace this by some USB LEDs
+     - A raspberry pi 3b+ with octopi
+       - Optional: A [raspberry pi camera](https://www.amazon.de/gp/product/B07G9VLPZH)
+       - The [SanDisk Ultra 128GB](https://www.amazon.de/gp/product/B08GYKNCCP) SD card is overkill
+     - A power-supply for the raspberry pi
+     - I really like [this magnetic metal base](https://www.amazon.de/gp/product/B098SK9YPS)
+
+ - PLA filament
+   - I use [a matte black one](https://www.amazon.de/gp/product/B08R627L28)
+ - For slicing i use [Cura](https://ultimaker.com/software/ultimaker-cura)
+
+### Modeling
+ 
+ - I currently use [TinkerCAD](https://www.tinkercad.com/)
+   - But i plan to switch to [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview)
 
