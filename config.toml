@@ -91,7 +91,7 @@ center = true
 # og_preview_img = ""
 
 # Copyright notice if desired. Defaults to
-copyright = "copyright 2022 Ferdinand Linnenberg"
+copyright = "copyright 2024 Ferdinand Linnenberg"
 
 # What is displayed in the top left corner of the website. Default is zerm.
 logo_text = "linnenberg.dev"

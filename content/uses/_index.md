@@ -38,9 +38,6 @@ description="A list of tools I use for development and other stuff"
    - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
    - [Chrome](https://www.google.com/chrome/)
 
-# Favorite Programing Languages & Frameworks
+# Favorite Programing Languages
  - [Go](https://golang.org/)
-   - [Gin](https://github.com/gin-gonic/gin)
-   - [Gorm](https://gorm.io/)
  - [Rust](https://www.rust-lang.org/)
-   - [Axum](https://github.com/tokio-rs/axum)
