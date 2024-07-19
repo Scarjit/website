@@ -16,6 +16,7 @@ generate_feeds = true
 # values for feed_filename in this theme. All other filenames will assume a
 # link type of 'application/rss+xml'.
 # feed_filename = "atom.xml"
+feed_filenames = ["atom.xml", "rss.xml"]
 
 # Theme name to use.
 # NOTE: should not need to mess with this if you are using zerm directly, i.e. cloning the
