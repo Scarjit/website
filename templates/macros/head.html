@@ -32,8 +32,8 @@
 
 {% macro rss() %}
     {%- if config.generate_feed -%}
-        <link rel="alternate" type={% if config.generate_feeds == true %}"application/atom+xml"{% else %}"application/rss+xml"{% endif %} title="{{ config.title }} RSS" href="{{ get_url("rss.xml") }}">
-        <link rel="alternate" type={% if config.generate_feeds == true %}"application/atom+xml"{% else %}"application/atom+xml"{% endif %} title="{{ config.title }} Atom" href="{{ get_url("atom.xml") }}">
+        <link rel="alternate" type={% if config.generate_feeds == true %}"application/atom+xml"{% else %}"application/rss+xml"{% endif %} title="{{ config.title }} RSS" href="/rss.xml">
+        <link rel="alternate" type={% if config.generate_feeds == true %}"application/atom+xml"{% else %}"application/atom+xml"{% endif %} title="{{ config.title }} Atom" href="/atom.xml">
     {%- endif -%}
 {% endmacro rss %}
 
