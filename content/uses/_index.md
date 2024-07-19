@@ -11,6 +11,7 @@ description="A list of tools I use for development and other stuff"
    - AMD Ryzen 9 5900X
    - 128 GB RAM
    - NVIDIA RTX 4080
+   - AMD 6600
    - Storage
      - 1x 4TB HDD
      - 1x 1TB SSD
@@ -22,16 +23,23 @@ description="A list of tools I use for development and other stuff"
      - Beyerdynamic DT 770 Pro (250 Ohm)
      - Steinberg UR-12
      - Rode NTG-2
+ - 3D Printer
+   - Ender 3 V2 Neo
 
-# Development
+# Development & Personal Tools
+ - OS
+   - [Arch Linux](https://archlinux.org/)
+   - [KDE Plasma](https://kde.org/)
+ - Shell
+   - [Zsh](https://ohmyz.sh/)
+ - Package Manager
+   - [Yay](https://github.com/Jguer/yay)
  - IDE
    - [JetBrains Suite](https://www.jetbrains.com/)
  - Terminal
-   - [Windows Terminal](https://github.com/microsoft/terminal)
-   - [Oh My Posh](https://ohmyposh.dev/)
-   - [Nerd Fonts](https://www.nerdfonts.com/)
+   - [Alacritty](https://github.com/alacritty/alacritty)
  - Text Editor
-   - [Notepad++](https://notepad-plus-plus.org/)
+   - [Fleet](https://www.jetbrains.com/fleet/)
  - Email
    - [Thunderbird](https://www.thunderbird.net/)
  - Browser
