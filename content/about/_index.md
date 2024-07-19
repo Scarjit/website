@@ -1,6 +1,5 @@
 +++
 title = "about"
-path = "about"
 
 +++
 
