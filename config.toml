@@ -15,7 +15,7 @@ generate_feeds = true
 # 'atom.xml' (default if unspecified) and 'rss.xml' are officially supported
 # values for feed_filename in this theme. All other filenames will assume a
 # link type of 'application/rss+xml'.
-# feed_filename = "atom.xml"
+feed_filename = "atom.xml"
 feed_filenames = ["atom.xml", "rss.xml"]
 
 # Theme name to use.
