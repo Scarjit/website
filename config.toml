@@ -10,8 +10,6 @@ description = "Personal blog of Ferdinand Linnenberg"
 # with other facets of the theme.
 default_language = "en"
 
-# Whether to generate a RSS feed automatically
-generate_feed = true
 # 'atom.xml' (default if unspecified) and 'rss.xml' are officially supported
 # values for feed_filename in this theme. All other filenames will assume a
 # link type of 'application/rss+xml'.
