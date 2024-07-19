@@ -267,3 +267,4 @@
 				goatcounter.bind_events()
 		})
 })();
+

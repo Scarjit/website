@@ -58,9 +58,3 @@ please believe that.
 | Inspectah Deck   | 49  | CZARFACE                                     | `protect ya neck, boy`                                                  |
 
 
-#### Header IV
-
-Here's a video of my rabbit, Smalls, loaf'n to lofi beats:
-
-{{ youtube(id="UUpuz8IObcs") }}
-
