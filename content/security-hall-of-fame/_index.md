@@ -18,7 +18,7 @@ As of now, no security vulnerabilities have been reported for linnenberg.dev or 
 If you discover a security vulnerability, please report it responsibly:
 
 - **Email**: [security@linnenberg.dev](mailto:security@linnenberg.dev)
-- **PGP Key**: Available at [/security.txt](/security.txt)
+- **PGP Key**: Available at [/security.txt](/.well-known/security.txt)
 
 I appreciate responsible disclosure and will acknowledge legitimate security reports on this page.
 
@@ -32,4 +32,4 @@ To be listed in the Hall of Fame, reports must:
 
 ---
 
-*Last updated: 11.August.2025*
+*Last updated: 11.08.2025*
