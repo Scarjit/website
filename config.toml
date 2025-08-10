@@ -60,7 +60,7 @@ socials = [
 
 [extra.content_security_policy]
 enable = true
-allowed_domains = []
+allowed_domains = ["linnenberg.dev"]
 
 [extra.responsive_images]
 widths = [640, 784, 1280, 1920, 2560]
