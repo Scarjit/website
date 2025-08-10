@@ -4,6 +4,7 @@ install:
 	curl -L -O https://github.com/getzola/zola/releases/download/v0.21.0/zola-v0.21.0-x86_64-unknown-linux-gnu.tar.gz
 	tar -xzf zola-v0.21.0-x86_64-unknown-linux-gnu.tar.gz
 	chmod +x ./zola
+	ls -la
 
 serve: install check
 	./zola serve
