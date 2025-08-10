@@ -22,9 +22,8 @@ steps:
            path: /tmp/output
 
     - name: build
-      image: ghcr.io/getzola/zola:v0.21.0
-      entrypoint: [/bin/zola]
-      command: ["build", "--output-dir", "/tmp/output/files/"]
+      image: alpine
+      command: ["make", "build-ci"]
       volumes:
         - name: output
           path: /tmp/output

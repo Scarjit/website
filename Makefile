@@ -1,7 +1,7 @@
 .PHONY: serve build install clean check serve-static
 
 install:
-	npm run install
+	curl -L -O https://github.com/getzola/zola/releases/download/v0.21.0/zola-v0.21.0-x86_64-unknown-linux-gnu.tar.gz && tar -xzf zola-v0.21.0-x86_64-unknown-linux-gnu.tar.gz
 
 serve: install check
 	./zola serve
@@ -20,3 +20,6 @@ update-theme:
 
 serve-static: build
 	cd public && python3 -m http.server 8000
+
+build-ci: install check
+	./zola build --output-dir /tmp/output/files/
