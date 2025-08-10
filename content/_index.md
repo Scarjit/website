@@ -26,8 +26,8 @@ As a side project, I'm developing [**Penguin Protect**](https://penguin-protect.
 When I'm not coding, you'll find me:
 - 🚴‍♂️ Cycling
 - 🥾 Hiking
-- 🏠 Tinkering with my homelab and maintaining servers at Hetzner (game servers, mail, file storage, ...)
-- 📡 Running [Meshtastic](https://meshtastic.org/) networks and ADS-B tracking
+- 🏠 Tinkering with my homelab and maintaining servers at [Hetzner](https://www.hetzner.com/) (game servers, mail, file storage, ...)
+- 📡 Running [Meshtastic](https://meshtastic.org/) networks and [ADS-B](https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast) tracking
 - 🎮 Gaming
 - 🎲 Playing Pathfinder (pen & paper RPG)
 
