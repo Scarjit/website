@@ -5,6 +5,7 @@ install:
 	tar -xzf zola-v0.21.0-x86_64-unknown-linux-gnu.tar.gz
 	chmod +x ./zola
 	ls -la
+	ldd ./zola
 
 serve: install check
 	./zola serve
