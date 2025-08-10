@@ -14,3 +14,6 @@ build:
 
 clean:
 	rm -rf public/
+
+update-theme:
+	git submodule update --remote themes/terminus

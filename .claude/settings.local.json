@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "Bash(./zola build --skip-external-links)",
+      "Bash(./zola --version)",
+      "Bash(./zola build --help)",
+      "Bash(./zola build)",
+      "Bash(make:*)"
+    ],
+    "deny": []
+  }
+}
