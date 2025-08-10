@@ -23,7 +23,7 @@ steps:
 
     - name: build
       image: alpine
-      command:
+      commands:
         - apk add make
         - make build-ci
       volumes:
