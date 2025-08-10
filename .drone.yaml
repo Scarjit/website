@@ -23,7 +23,9 @@ steps:
 
     - name: build
       image: alpine
-      command: ["make", "build-ci"]
+      command:
+        - apk add make
+        - make build-ci
       volumes:
         - name: output
           path: /tmp/output
