@@ -1,6 +1,6 @@
 +++
 title = "Home"
-description = "Personal website of Ferdinand Linnenberg, developer focused on Industrial IoT, open-source projects, and building reliable distributed systems."
+description = "Personal website of Ferdinand Linnenberg."
 sort_by = "date"
 paginate_by = 5
 insert_anchor_links = "right"
@@ -8,7 +8,7 @@ insert_anchor_links = "right"
 
 # Hi, I'm Ferdinand
 
-I'm a developer based in Cologne, Germany, passionate about **Industrial IoT**, **open-source software**, and **Rust development**.
+I'm a developer based in Cologne, Germany, passionate about **cybersecurity**, **Rust development**, **open-source software**, and **(Industrial) IoT**.
 
 ## What I Do
 

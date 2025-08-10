@@ -45,7 +45,7 @@ copy_button = true
 
 # Main menu
 main_menu = [
-    { name = "home", url = "https://linnenberg.dev", trailing_slash = false },
+    { name = "home", url = "", trailing_slash = true },
     { name = "contact", url = "contact", trailing_slash = true },
     { name = "uses", url = "uses", trailing_slash = true },
     { name = "github", url = "https://github.com/Scarjit", trailing_slash = true },
@@ -56,6 +56,7 @@ socials = [
     { name = "email", url = "mailto:ferdinand@linnenberg.dev" },
     { name = "github", url = "https://github.com/Scarjit" },
     { name = "linkedin", url = "https://www.linkedin.com/in/ferdinand-l-b1124321b" },
+    { name = "keybase", url = "https://keybase.io/scarjit" },
 ]
 
 [extra.content_security_policy]
