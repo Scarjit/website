@@ -22,7 +22,7 @@ steps:
            path: /tmp/output
 
     - name: build
-      image: ghcr.io/getzola/zola:v0.19.1
+      image: ghcr.io/getzola/zola:v0.21.0
       entrypoint: [/bin/zola]
       command: ["build", "--output-dir", "/tmp/output/files/"]
       volumes:

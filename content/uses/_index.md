@@ -24,7 +24,7 @@ description="A list of tools I use for development and other stuff"
      - Steinberg UR-12
      - Rode NTG-2
  - 3D Printer
-   - Ender 3 V2 Neo
+   - BambuLab P1S
 
 # Development & Personal Tools
  - OS
@@ -33,7 +33,7 @@ description="A list of tools I use for development and other stuff"
  - Shell
    - [Zsh](https://ohmyz.sh/)
  - Package Manager
-   - [Yay](https://github.com/Jguer/yay)
+   - [Paru](https://github.com/Morganamilo/paru)
  - IDE
    - [JetBrains Suite](https://www.jetbrains.com/)
  - Terminal
@@ -44,8 +44,7 @@ description="A list of tools I use for development and other stuff"
    - [Thunderbird](https://www.thunderbird.net/)
  - Browser
    - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
-   - [Chrome](https://www.google.com/chrome/)
 
 # Favorite Programing Languages
- - [Go](https://golang.org/)
  - [Rust](https://www.rust-lang.org/)
+ - [Go](https://golang.org/)
