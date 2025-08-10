@@ -1,4 +1,4 @@
-.PHONY: serve build install clean check
+.PHONY: serve build install clean check serve-static
 
 install:
 	npm run install
@@ -17,3 +17,6 @@ clean:
 
 update-theme:
 	git submodule update --remote themes/terminus
+
+serve-static: build
+	cd public && python3 -m http.server 8000

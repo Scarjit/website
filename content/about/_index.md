@@ -1,7 +1,0 @@
-+++
-title = "about"
-
-+++
-
-# Ferdinand Linnenberg
-

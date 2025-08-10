@@ -1,19 +1,26 @@
 +++
-title="contact"
-description="contact info"
-
+title = "Contact"
+description = "Get in touch with Ferdinand Linnenberg"
 +++
 
-# Social Media
+# Get in Touch
 
-- [Github](https://github.com/Scarjit)
-- [LinkedIn](https://www.linkedin.com/in/ferdinand-l-b1124321b)
+I'm always happy to connect with fellow developers, discuss interesting projects, or chat about anything!
 
-# E-Mail
+## 📧 Email
 
-- [ferdinand@linnenberg.dev](mailto:ferdinand@linnenberg.dev)
+**[ferdinand@linnenberg.dev](mailto:ferdinand@linnenberg.dev)**
 
-If you have any problem with my mail service, please use the following mail addresses:
+## 🌐 Social & Professional
 
- - Postmaster: [admin@mail.soontm.net](mailto:admin@mail.soontm.net)
- - Abuse: [abuse@linnenberg.dev](mailto:abuse@linnenberg.dev)
+- 💻 **GitHub**: [Scarjit](https://github.com/Scarjit)
+- 💼 **LinkedIn**: [Ferdinand Linnenberg](https://www.linkedin.com/in/ferdinand-l-b1124321b)
+
+---
+
+### Mail Service Support
+
+If you experience any issues with my mail service:
+
+- **Postmaster**: [admin@mail.soontm.net](mailto:admin@mail.soontm.net)
+- **Abuse Reports**: [abuse@linnenberg.dev](mailto:abuse@linnenberg.dev)

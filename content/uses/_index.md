@@ -1,50 +1,60 @@
 +++
-title="A list of tools I use for development and other stuff"
-description="A list of tools I use for development and other stuff"
-
+title = "Uses"
+description = "Tools, hardware, and software I use for development and daily work"
 +++
 
-# Hardware
- - Laptop
-   - Dell XPS 15 9575
- - PC
-   - AMD Ryzen 9 5900X
-   - 128 GB RAM
-   - NVIDIA RTX 4080
-   - AMD 6600
-   - Storage
-     - 1x 4TB HDD
-     - 1x 1TB SSD
-     - 1x 500GB SSD
-     - 1x 1TB NVME SSD
-     - 1x 500GB NVME SSD
-   - Sound
-     - Sound BlasterX AE-5 Plus 
-     - Beyerdynamic DT 770 Pro (250 Ohm)
-     - Steinberg UR-12
-     - Rode NTG-2
- - 3D Printer
-   - BambuLab P1S
+A detailed look at my setup - the tools and tech that power my daily workflow.
 
-# Development & Personal Tools
- - OS
-   - [Arch Linux](https://archlinux.org/)
-   - [KDE Plasma](https://kde.org/)
- - Shell
-   - [Zsh](https://ohmyz.sh/)
- - Package Manager
-   - [Paru](https://github.com/Morganamilo/paru)
- - IDE
-   - [JetBrains Suite](https://www.jetbrains.com/)
- - Terminal
-   - [Alacritty](https://github.com/alacritty/alacritty)
- - Text Editor
-   - [Fleet](https://www.jetbrains.com/fleet/)
- - Email
-   - [Thunderbird](https://www.thunderbird.net/)
- - Browser
-   - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+*Inspired by [uses.tech](https://uses.tech/) - a community of developers sharing their tools and setups.*
 
-# Favorite Programing Languages
- - [Rust](https://www.rust-lang.org/)
- - [Go](https://golang.org/)
+## 💻 Hardware
+
+### Laptop
+- **Dell XPS 15 9575** - My mobile workstation
+
+### Desktop PC
+- **CPU**: AMD Ryzen 9 5900X
+- **RAM**: 128 GB 
+- **GPU**: NVIDIA RTX 4080 + AMD 6600
+- **Storage**: 7TB total (mix of HDDs, SSDs, and NVMe drives)
+
+### Audio Setup
+- **Sound Card**: Sound BlasterX AE-5 Plus
+- **Headphones**: Beyerdynamic DT 770 Pro (250Ω)
+- **Audio Interface**: Steinberg UR-12
+- **Microphone**: Rode NTG-2
+
+### Home Server
+- **CPU**: Intel i5-12600K
+- **RAM**: 32 GB
+- **Storage**: 3x16TB HDDs (ZFS RAID) + 1TB NVMe cache + 1TB NVMe boot disk
+- *Will be replaced/extended by a 4 Node [ComputeBlade](https://computeblade.com/) cluster*
+
+### 3D Printing
+- **BambuLab P1S** - For rapid prototyping and hobby projects
+
+## ⚙️ Software & Tools
+
+### Operating System
+- **[Arch Linux](https://archlinux.org/)** - Rolling release, customizable
+- **[KDE Plasma](https://kde.org/)** - Desktop environment
+
+### Development Environment  
+- **IDE**: [JetBrains Suite](https://www.jetbrains.com/)
+- **Text Editor**: [Fleet](https://www.jetbrains.com/fleet/)
+- **Terminal**: [Alacritty](https://github.com/alacritty/alacritty)
+- **Shell**: [Zsh](https://ohmyz.sh/)
+- **Package Manager**: [Paru](https://github.com/Morganamilo/paru)
+
+### Daily Applications
+- **Email**: [Thunderbird](https://www.thunderbird.net/)
+- **Browser**: [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+
+## 🦀 Programming Languages
+
+- **[Rust](https://www.rust-lang.org/)** - Everything I can get my hands on!
+  - Systems programming (using [TockOS](https://tockos.org/))
+  - WebAssembly
+  - web backends
+  - and more
+- **[Go](https://golang.org/)** - Primarily for UMH's software (both backend & on-prem)

@@ -6,7 +6,8 @@
       "Bash(./zola --version)",
       "Bash(./zola build --help)",
       "Bash(./zola build)",
-      "Bash(make:*)"
+      "Bash(make:*)",
+      "WebFetch(domain:www.getzola.org)"
     ],
     "deny": []
   }
