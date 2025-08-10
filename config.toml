@@ -45,7 +45,7 @@ copy_button = true
 
 # Main menu
 main_menu = [
-    { name = "home", url = "/", trailing_slash = false },
+    { name = "home", url = "https://linnenberg.dev", trailing_slash = false },
     { name = "contact", url = "contact", trailing_slash = true },
     { name = "uses", url = "uses", trailing_slash = true },
     { name = "github", url = "https://github.com/Scarjit", trailing_slash = true },
