@@ -4,4 +4,4 @@
 
 ISC. See `LICENSE.md` for more details.
 
-Based on [zerm](https://github.com/ejmg/zerm)
+Based on [terminus](https://github.com/ebkalderon/terminus)
