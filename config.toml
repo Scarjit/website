@@ -21,6 +21,9 @@ compile_sass = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
+# Enable minification of HTML, CSS, and JS
+minify_html = true
+
 # Built in taxonomies
 taxonomies = [
     {name = "tags"},
