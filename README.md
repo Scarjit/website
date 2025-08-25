@@ -2,6 +2,6 @@
 
 ## license
 
-MIT. See `LICENSE.md` for more details.
+ISC. See `LICENSE.md` for more details.
 
 Based on [zerm](https://github.com/ejmg/zerm)
