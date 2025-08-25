@@ -36,7 +36,6 @@
     {%- if page.extra.copy_button | default(value=section.extra.copy_button | default(value=config.extra.copy_button)) %}
     <script src="{{ get_url(path="js/copy-code-to-clipboard.js", cachebust=true) }}" defer></script>
     {%- endif %}
-    <script src="{{ get_url(path="js/theme-switcher.js", cachebust=true) }}" defer></script>
 
     {# Canonical and alternate links -#}
     {% if current_url -%}
@@ -75,11 +74,7 @@
     {%- set page_title = config.title -%}
     <meta property="og:title" content="{{ page_title }}">
     {% elif current_path -%}
-    {%- if taxonomy -%}
     {%- set page_title = page.title | default(value=section.title | default(value=taxonomy.name | capitalize | default(value=config.title))) -%}
-    {%- else -%}
-    {%- set page_title = page.title | default(value=section.title | default(value=config.title)) -%}
-    {%- endif -%}
     <meta property="og:title" content="{{ page_title | replace(from='"', to="&quot;") | safe }}">
     {% endif -%}
 
