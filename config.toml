@@ -32,7 +32,7 @@ taxonomies = [
 author = "Ferdinand Linnenberg"
 
 # Copyright notice
-copyright = "© $YEAR $AUTHOR :: Powered by [Zola](https://www.getzola.org)"
+ copyright = "© $YEAR $AUTHOR :: Powered by [Zola](https://www.getzola.org) :: Based on [Terminus Theme](https://github.com/ebkalderon/terminus) by [ebkalderon](https://eyalkalderon.com)"
 
 # Layout option: "center", "left", or "full-width"
 layout = "center"

@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{%- block title -%}
+Page not found | {{ config.title }}
+{%- endblock -%}
+
+{%- block robots -%}
+<meta name="robots" content="noindex, follow">
+{%- endblock -%}
+
+{%- block main -%}
+{%- filter indent -%}{%- filter indent -%}
+<section class="framed">
+    <h1>🐱 404: Curious Cat Found Nothing!</h1>
+    
+    <pre>
+    /\_/\  
+   ( -.o ) 
+    > ^ <
+</pre>
+
+    <p><strong>Meow!</strong> This curious cat has explored every corner of the internet and found... absolutely nothing at this address!</p>
+    
+    <p>The page you're looking for seems to have disappeared into the digital void. Don't worry though, here are some places you might want to explore instead:</p>
+    
+    <ul>
+        <li>Go back <a href="{{ config.base_url | safe }}/">home</a> to safety</li>
+        <li>Check out the <a href="{{ config.base_url | safe }}/blog/">blog</a> (when it has content)</li>
+        <li>Visit the <a href="{{ config.base_url | safe }}/contact/">contact page</a> to get in touch</li>
+        <li>Browse the <a href="{{ config.base_url | safe }}/uses/">uses page</a> to see my tech stack</li>
+    </ul>
+    
+    <hr>
+    
+    <p><em>*The cat will guide you back to familiar territory* 🐾</em></p>
+</section>
+{%- endfilter -%}{%- endfilter -%}
+{%- endblock -%}
