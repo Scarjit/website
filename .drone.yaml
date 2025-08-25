@@ -11,6 +11,11 @@ steps:
          - name: output
            path: /tmp/output
 
+    - name: submodules
+      image: alpine/git
+      commands:
+        - git submodule update --init --recursive
+
     - name: build
       image: alpine
       commands:
