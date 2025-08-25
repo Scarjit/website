@@ -1,0 +1,23 @@
+/* External link indicators */
+a[href^="http"]:not([href*="linnenberg.dev"]):not([href*="localhost"]):not([href*="127.0.0.1"])::after {
+    content: " ↗";
+    font-size: 0.8em;
+    opacity: 0.7;
+    margin-left: 2px;
+    text-decoration: none;
+}
+
+/* Email links */
+a[href^="mailto:"]::after {
+    content: " ✉";
+    font-size: 0.8em;
+    opacity: 0.7;
+    margin-left: 2px;
+    text-decoration: none;
+}
+
+/* Don't show on social icons */
+.social-icons a::after,
+.footer a::after {
+    display: none;
+}
