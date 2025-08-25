@@ -14,7 +14,7 @@ steps:
     - name: submodules
       image: alpine/git
       commands:
-        - git submodule update --init --recursive
+        - git submodule update --init --recursive  # Initialize theme submodule
 
     - name: build
       image: alpine
