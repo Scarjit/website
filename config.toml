@@ -52,6 +52,7 @@ main_menu = [
     { name = "contact", url = "contact", trailing_slash = true },
     { name = "uses", url = "uses", trailing_slash = true },
     { name = "github", url = "https://github.com/Scarjit", trailing_slash = true },
+    { name = "dn42", url = "dn42", trailing_slash = true },
 ]
 
 # Social links

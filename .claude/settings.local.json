@@ -3,7 +3,8 @@
     "allow": [
       "Bash(mkdir:*)",
       "WebFetch(domain:linnenberg.dev)",
-      "Bash(grep:*)"
+      "Bash(grep:*)",
+      "Bash(zola build)"
     ],
     "deny": [],
     "ask": []
