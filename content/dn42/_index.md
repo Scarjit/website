@@ -9,7 +9,7 @@ description = "DN42 network peering information for SCARJIT-MNT"
 
 DN42 is a decentralized network that mimics the structure of the Internet. It's a playground for network enthusiasts to experiment with routing protocols, network design, and inter-domain networking in a real-world-like environment without affecting production systems.
 
-Learn more at [dn42.eu](https://dn42.eu) or visit the [DN42 Wiki](https://dn42.dev).
+Learn more at [dn42.eu](https://dn42.eu).
 
 ## My Network Information
 
