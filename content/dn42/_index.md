@@ -56,8 +56,9 @@ Learn more at [dn42.eu](https://dn42.eu).
 - **ROA validation enforced** - Only routes with valid ROA entries will be accepted
 - IPv4 and IPv6 (prefered) BGP sessions supported
 - Multi-protocol BGP over IPv6 supported
+- BFD supported
 - Latency under 500ms prefered
-- I do not have uptime guarantees and neither must you
+- I do not have uptime guarantees
 
 ## Resources
 
