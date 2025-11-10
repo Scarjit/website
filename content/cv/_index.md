@@ -110,7 +110,7 @@ description = "Curriculum Vitae - Ferdinand Linnenberg"
 - DN42 Netzwerk-Setup (BGP, WireGuard, DNSSEC) · ASN: [AS4242420257](https://map.iedon.net/#4242420257)
 - WebAssembly TLS-Implementierung mit Rust (rust-wasm-tls)
 - Persönliche Website ([linnenberg.dev](https://linnenberg.dev))
-- 103 öffentliche GitHub-Repositories
+- 100+ öffentliche GitHub-Repositories
 
 ## Patente & Auszeichnungen
 
