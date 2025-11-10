@@ -1,0 +1,114 @@
+/* ============================================
+   Print Styles - Link References
+   ============================================ */
+
+/* Hide reference indicators on screen */
+@media screen {
+    a[href]:after {
+        /* Keep existing ::after content from external-links.css */
+    }
+}
+
+/* Print styles for link reference numbering */
+@media print {
+    body {
+        counter-reset: link-counter;
+    }
+
+    /* Add superscript numbers to links in print */
+    a[href]:after {
+        counter-increment: link-counter;
+        content: "[" counter(link-counter) "]";
+        font-size: 0.7em;
+        vertical-align: super;
+        color: var(--text-color);
+        /* Override any external link indicators */
+        opacity: 1 !important;
+        margin-left: 2px;
+    }
+
+    /* Don't show on social icons or footer */
+    .social-link a:after,
+    .footer .socials a:after {
+        content: none !important;
+    }
+
+    /* Show references section in print */
+    .print-references {
+        display: block !important;
+        margin-top: 30px;
+        padding-top: 20px;
+        border-top: 1px solid var(--border-color);
+        page-break-before: avoid;
+    }
+
+    .print-references h3 {
+        font-size: 1.1em;
+        color: var(--primary-color);
+        margin-bottom: 10px;
+    }
+
+    .print-references ol {
+        font-size: 0.85em;
+        line-height: 1.6;
+        color: var(--footnote-color);
+        margin-left: 20px;
+    }
+
+    .print-references li {
+        margin-bottom: 4px;
+        word-break: break-all;
+    }
+
+    /* Remove external link indicators in print */
+    a[href^="http"]:not([href*="linnenberg.dev"]):not([href*="localhost"]):not([href*="127.0.0.1"])::after {
+        /* Override external-links.css with reference numbers instead */
+        content: "[" counter(link-counter) "]" !important;
+        font-size: 0.7em;
+        vertical-align: super;
+    }
+
+    /* Remove email indicators in print */
+    a[href^="mailto:"]::after {
+        counter-increment: link-counter;
+        content: "[" counter(link-counter) "]" !important;
+        font-size: 0.7em;
+        vertical-align: super;
+    }
+
+    /* Ensure header and footer are hidden in print if needed */
+    .header,
+    .footer,
+    .main-menu,
+    .language-selector {
+        display: none !important;
+    }
+
+    /* Print-friendly page settings */
+    .container,
+    .content,
+    main {
+        max-width: 100%;
+        padding: 20px;
+        box-shadow: none;
+    }
+
+    /* Avoid page breaks inside important sections */
+    .section,
+    .entry,
+    .post {
+        page-break-inside: avoid;
+    }
+
+    .section-title,
+    h1, h2, h3 {
+        page-break-after: avoid;
+    }
+}
+
+/* Hide references section on screen */
+@media screen {
+    .print-references {
+        display: none !important;
+    }
+}
