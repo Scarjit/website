@@ -4,7 +4,12 @@
       "Bash(mkdir:*)",
       "WebFetch(domain:linnenberg.dev)",
       "Bash(grep:*)",
-      "Bash(zola build)"
+      "Bash(zola build)",
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_snapshot",
+      "mcp__playwright__browser_click",
+      "mcp__playwright__browser_evaluate",
+      "mcp__playwright__browser_fill_form"
     ],
     "deny": [],
     "ask": []

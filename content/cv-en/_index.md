@@ -21,46 +21,64 @@ description = "Curriculum Vitae - Ferdinand Linnenberg"
 
 ## Profile
 
-**Development Team Lead** with 5 years of expertise in Industrial IoT and Cybersecurity at UMH Systems GmbH.
+**Development Team Lead** with over 4 years of expertise in Industrial IoT and Cybersecurity at UMH Systems GmbH. Core developer from the start - Responsible for building the entire platform.
 
 - Expert-level knowledge in **Go** (1.5M+ lines in production) and **Rust**
 - Specialization in scalable infrastructures for industrial automation and open-source platforms
 - **Co-inventor** of a patent for secure IoT communication ([US20250279900A1](https://patents.google.com/patent/US20250279900A1))
-- Career progression from Software Developer ([FILLER: 2020]) to Development Team Lead ([FILLER: 2022])
+- End-to-end product development: Frontend, backend, databases, deployment, customer support
+- Career progression from Werkstudent (07/2021) through Software Engineer (11/2021) to Development Team Lead (09/2022)
+
+📍 **Location:** Cologne, Germany · On-site preferred, remote possible · Willing to relocate
 
 ## Education
 
 ### Bachelor in Cybersecurity (not completed)
-**Saarland University** · [FILLER: 10/2017 – 08/2020]
+**Saarland University** · 10/2016 – 11/2021
 
 - Focus: IT Security and Information Security
-- Recruited directly after university to UMH Systems GmbH
 
 ### Bachelor in Media Informatics (not completed)
-**HTWK Leipzig** · [FILLER: 10/2014 – 08/2017]
+**HTWK Leipzig** · 10/2014 – 10/2016
 
 - Focus: Computer Science and Digital Media
+
+### Abitur (General Higher Education Entrance Qualification)
+**CJD Braunschweig Christophorusschule** · 07/2014
+
+- Final Grade: 2.9
+- Advanced Courses: Computer Science, Biology, English
 
 ## Work Experience
 
 ### Development Team Lead
-**UMH Systems GmbH · Cologne** · [FILLER: 01/2022] – Present
+**UMH Systems GmbH · Cologne** · 09/2022 – 31.12.2025
 
+- **Core developer from the start** – Built entire platform from ground up with CTO
+- Leading development team of 2-4 developers
 - Leading development of the United Manufacturing Hub open-source platform (1.5M+ lines of Go code)
 - Architecture and implementation of microservices for industrial automation
 - Integration of industrial protocols (OPC UA, Siemens S7comm, Modbus, Kafka/MQTT)
 - Full-stack development: Cloud SaaS platform (Management Console) with SvelteKit and Go
-- Co-inventor of a patent for secure IoT communication (US20250279900A1)
+- End-to-end responsibility: Frontend, backend, databases, deployment, customer support
+- Co-inventor of a patent for secure IoT communication (US20250279900A1, filed 2022)
 - Community management (332 GitHub Stars, 56 Forks) and technical blogging (8+ articles)
 - Technologies: Go, Rust, TypeScript, Kubernetes, Docker, PostgreSQL, TimescaleDB
 
-### Software Developer
-**UMH Systems GmbH · Cologne** · [FILLER: 12/2020 – 12/2021]
+### Software Engineer
+**UMH Systems GmbH · Cologne** · 11/2021 – 09/2022
 
 - Software development for Industrial IoT solutions
 - Backend services and API implementation
 - Container orchestration and DevOps processes
 - Industrial protocol integration
+
+### Werkstudent (Student Worker)
+**UMH Systems GmbH · Cologne** · 07/2021 – 11/2021
+
+- Supporting development of Industrial IoT solutions
+- Backend development and testing
+- Contributing to open-source projects
 
 ## Skills
 
@@ -81,7 +99,7 @@ description = "Curriculum Vitae - Ferdinand Linnenberg"
 ## Projects
 
 ### United Manufacturing Hub (Core Platform)
-**Open Source · Primary Work Project** · since [FILLER: 12/2020]
+**Open Source · Primary Work Project** · since 07/2021
 
 - Enterprise-grade Industrial IoT platform for factory data collection and management
 - 1.5M+ lines of Go code in production · Edge-to-cloud deployment
@@ -90,7 +108,7 @@ description = "Curriculum Vitae - Ferdinand Linnenberg"
 - [github.com/united-manufacturing-hub](https://github.com/united-manufacturing-hub)
 
 ### Benthos-UMH (Protocol Converter)
-**Open Source · Work** · since [FILLER: 01/2021]
+**Open Source · Work** · since 11/2021
 
 - Specialized Benthos fork for manufacturing protocol integration
 - OPC UA, Siemens S7comm, Modbus, IO-Link, Beckhoff ADS
@@ -98,7 +116,7 @@ description = "Curriculum Vitae - Ferdinand Linnenberg"
 - [github.com/united-manufacturing-hub/benthos-umh](https://github.com/united-manufacturing-hub/benthos-umh)
 
 ### Management Console (Cloud SaaS)
-**Proprietary · Work** · since [FILLER: 06/2022]
+**Proprietary · Work** · since 06/2022
 
 - Cloud platform for managing distributed UMH instances
 - 40K+ files in monorepo · SvelteKit frontend, Go backend
@@ -115,11 +133,12 @@ description = "Curriculum Vitae - Ferdinand Linnenberg"
 ## Patents & Awards
 
 ### Patent: Secure IoT Communication
-**US20250279900A1 (Pending)** · 2023-2025
+**US20250279900A1 (Pending)** · Filed: 2022
 
 - Co-inventor with Jeremy Theocharis · UMH Systems GmbH
 - VPN-free secure IoT/IIoT communication using cryptographic certificates
 - Hardware Security Module integration · FIPS 140-2 compliant
+- Original filing: DE102022109649.1A (2022-04-21)
 - [Patent Details](https://patents.google.com/patent/US20250279900A1)
 
 **Technical Blogging:** 8+ technical articles on learn.umh.app as UMH Instructor ([Article Overview](https://learn.umh.app/instructor/ferdinand/)). Topics: Performance optimization, infrastructure deployment, protocol integration
