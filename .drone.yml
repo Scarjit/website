@@ -28,4 +28,4 @@ steps:
 volumes:
     - name: output
       host:
-        path: /var/docker-volumes/linnenberg-dev/site
+        path: /mnt/nvme1n1/linnenberg-dev/site
