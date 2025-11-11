@@ -25,7 +25,7 @@ description = "Curriculum Vitae - Ferdinand Linnenberg"
 
 - Expert-level knowledge in **Go** (1.5M+ lines in production) and **Rust**
 - Specialization in scalable infrastructures for industrial automation and open-source platforms
-- **Co-inventor** of a patent for secure IoT communication ([US20250279900A1](https://patents.google.com/patent/US20250279900A1))
+- Co-inventor of a patent for secure IoT communication ([US20250279900A1](https://patents.google.com/patent/US20250279900A1))
 - End-to-end product development: Frontend, backend, databases, deployment, customer support
 - Career progression from Werkstudent (07/2021) through Software Engineer (11/2021) to Development Team Lead (09/2022)
 
@@ -82,17 +82,17 @@ description = "Curriculum Vitae - Ferdinand Linnenberg"
 
 ## Skills
 
-**Programming Languages:** Go (Expert), Rust (Expert), TypeScript/JavaScript (Advanced), Python (Advanced)
+**Programming Languages:** Go (Expert), Rust (Expert), TypeScript/JavaScript (Advanced), Python (Advanced), Lua (Advanced), C/C++ (Basic)
 
-**Container & Cloud:** Docker, Kubernetes, Helm, Cloudflare, Heroku, Proxmox
+**Container & Cloud:** Docker, Kubernetes, Helm, Cloudflare, Heroku, Proxmox, Fly.io
 
 **Industrial Protocols:** Kafka, MQTT, OPC UA, Siemens S7comm, Modbus, IO-Link, Beckhoff ADS
 
 **Web Development:** SvelteKit, Tailwind CSS, Next.js, React, Gin, Rocket, tRPC
 
-**Databases:** PostgreSQL, TimescaleDB, CockroachDB, SQLite, Redis
+**Databases:** PostgreSQL, TimescaleDB, CockroachDB, SQLite, Redis, DragonflyDB
 
-**DevOps & Tools:** GitHub Actions, Drone CI, Git, CI/CD, Prometheus, Grafana, Sentry
+**DevOps & Tools:** GitHub Actions, Drone CI, Git, CI/CD, Prometheus, Grafana, Sentry, Tailscale, WireGuard, WebAssembly (WASM)
 
 **Languages:** German (Native), English (Fluent)
 
