@@ -21,7 +21,7 @@ description = "Curriculum Vitae - Ferdinand Linnenberg"
 
 ## Profile
 
-**Development Team Lead** with over 4 years of expertise in Industrial IoT and Cybersecurity at UMH Systems GmbH. Core developer from the start - Responsible for building the entire platform.
+**Development Team Lead** with over 4 years of expertise in Industrial IoT and Cybersecurity at UMH Systems GmbH. Core developer from the start - responsible for building the entire platform.
 
 - Expert-level knowledge in **Go** (1.5M+ lines in production) and **Rust**
 - Specialization in scalable infrastructures for industrial automation and open-source platforms
@@ -30,24 +30,6 @@ description = "Curriculum Vitae - Ferdinand Linnenberg"
 - Career progression from Werkstudent (07/2021) through Software Engineer (11/2021) to Development Team Lead (09/2022)
 
 📍 **Location:** Cologne, Germany · On-site preferred, remote possible · Willing to relocate
-
-## Education
-
-### Bachelor in Cybersecurity (not completed)
-**Saarland University** · 10/2016 – 11/2021
-
-- Focus: IT Security and Information Security
-
-### Bachelor in Media Informatics (not completed)
-**HTWK Leipzig** · 10/2014 – 10/2016
-
-- Focus: Computer Science and Digital Media
-
-### Abitur (General Higher Education Entrance Qualification)
-**CJD Braunschweig Christophorusschule** · 07/2014
-
-- Final Grade: 2.9
-- Advanced Courses: Computer Science, Biology, English
 
 ## Work Experience
 
@@ -79,6 +61,24 @@ description = "Curriculum Vitae - Ferdinand Linnenberg"
 - Supporting development of Industrial IoT solutions
 - Backend development and testing
 - Contributing to open-source projects
+
+## Education
+
+### Bachelor in Cybersecurity (not completed)
+**Saarland University** · 10/2016 – 11/2021
+
+- Focus: IT Security and Information Security
+
+### Bachelor in Media Informatics (not completed)
+**HTWK Leipzig** · 10/2014 – 10/2016
+
+- Focus: Computer Science and Digital Media
+
+### Abitur (General Higher Education Entrance Qualification)
+**CJD Braunschweig Christophorusschule** · 07/2014
+
+- Final Grade: 2.9
+- Advanced Courses: Computer Science, Biology, English
 
 ## Skills
 

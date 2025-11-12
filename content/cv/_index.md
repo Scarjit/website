@@ -21,33 +21,15 @@ description = "Curriculum Vitae - Ferdinand Linnenberg"
 
 ## Profil
 
-**Development Team Lead** mit über 4 Jahren Expertise in Industrial IoT und Cybersecurity bei UMH Systems GmbH. Kernentwickler von Beginn an - Verantwortlich für den Aufbau der gesamten Plattform.
+**Development Team Lead** mit über 4 Jahren Expertise in Industrial IoT und Cybersecurity bei UMH Systems GmbH. Kernentwickler von Beginn an - verantwortlich für den Aufbau der gesamten Plattform.
 
-- Expert-Level Kenntnisse in **Go** (1.5M+ Zeilen in Produktion) und **Rust**
+- Expertenkenntnisse in **Go** (1.5M+ Zeilen in Produktion) und **Rust**
 - Spezialisierung auf skalierbare Infrastrukturen für industrielle Automatisierung und Open-Source-Plattformen
 - Co-Erfinder eines Patents für sichere IoT-Kommunikation ([US20250279900A1](https://patents.google.com/patent/US20250279900A1))
 - End-to-End Produktentwicklung: Frontend, Backend, Datenbanken, Deployment, Customer Support
 - Karriereentwicklung vom Werkstudent (07/2021) über Software Engineer (11/2021) zum Development Team Lead (09/2022)
 
 📍 **Standort:** Köln, Deutschland · Vor Ort bevorzugt, Remote möglich · Umzugsbereit
-
-## Ausbildung
-
-### Bachelor Cybersecurity (nicht abgeschlossen)
-**Universität des Saarlandes** · 10/2016 – 11/2021
-
-- Schwerpunkt: IT-Sicherheit und Informationssicherheit
-
-### Bachelor Medieninformatik (nicht abgeschlossen)
-**HTWK Leipzig** · 10/2014 – 10/2016
-
-- Schwerpunkt: Informatik und digitale Medien
-
-### Abitur (Allgemeine Hochschulreife)
-**CJD Braunschweig Christophorusschule** · 07/2014
-
-- Abschlussnote: 2,9
-- Leistungskurse: Informatik, Biologie, Englisch
 
 ## Berufserfahrung
 
@@ -80,9 +62,27 @@ description = "Curriculum Vitae - Ferdinand Linnenberg"
 - Backend-Entwicklung und Testing
 - Mitarbeit an Open-Source-Projekten
 
+## Ausbildung
+
+### Bachelor Cybersecurity (nicht abgeschlossen)
+**Universität des Saarlandes** · 10/2016 – 11/2021
+
+- Schwerpunkt: IT-Sicherheit und Informationssicherheit
+
+### Bachelor Medieninformatik (nicht abgeschlossen)
+**HTWK Leipzig** · 10/2014 – 10/2016
+
+- Schwerpunkt: Informatik und digitale Medien
+
+### Abitur (Allgemeine Hochschulreife)
+**CJD Braunschweig Christophorusschule** · 07/2014
+
+- Abschlussnote: 2,9
+- Leistungskurse: Informatik, Biologie, Englisch
+
 ## Kompetenzen
 
-**Programmiersprachen:** Go (Expert), Rust (Expert), TypeScript/JavaScript (Fortgeschritten), Python (Fortgeschritten), Lua (Fortgeschritten), C/C++ (Grundkenntnisse)
+**Programmiersprachen:** Go (Expertenkenntnisse), Rust (Expertenkenntnisse), TypeScript/JavaScript (Fortgeschritten), Python (Fortgeschritten), Lua (Fortgeschritten), C/C++ (Grundkenntnisse)
 
 **Container & Cloud:** Docker, Kubernetes, Helm, Cloudflare, Heroku, Proxmox, Fly.io
 
