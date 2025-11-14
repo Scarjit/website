@@ -34,7 +34,7 @@ description = "Curriculum Vitae - Ferdinand Linnenberg"
 ## Work Experience
 
 ### Development Team Lead
-**UMH Systems GmbH · Cologne** · 09/2022 – 31.12.2025
+**UMH Systems GmbH · Aachen/Cologne** · 09/2022 – 31.12.2025
 
 - **Core developer from the start** – Built entire platform from ground up with CTO
 - Leading development team of 2-4 developers
@@ -48,7 +48,7 @@ description = "Curriculum Vitae - Ferdinand Linnenberg"
 - Technologies: Go, Rust, TypeScript, Kubernetes, Docker, PostgreSQL, TimescaleDB
 
 ### Software Engineer
-**UMH Systems GmbH · Cologne** · 11/2021 – 09/2022
+**UMH Systems GmbH · Aachen** · 11/2021 – 09/2022
 
 - Software development for Industrial IoT solutions
 - Backend services and API implementation
@@ -56,7 +56,7 @@ description = "Curriculum Vitae - Ferdinand Linnenberg"
 - Industrial protocol integration
 
 ### Werkstudent (Student Worker)
-**UMH Systems GmbH · Cologne** · 07/2021 – 11/2021
+**UMH Systems GmbH · Aachen** · 07/2021 – 11/2021
 
 - Supporting development of Industrial IoT solutions
 - Backend development and testing
