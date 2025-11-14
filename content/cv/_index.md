@@ -11,7 +11,7 @@ description = "Curriculum Vitae - Ferdinand Linnenberg"
 
 # Ferdinand Linnenberg
 
-**Development Team Lead | Industrial IoT & Cybersecurity**
+**Software Engineer | Industrial IoT & Cybersecurity**
 
 📧 [ferdinand@linnenberg.dev](mailto:ferdinand@linnenberg.dev) · 📍 Köln, Deutschland
 
@@ -21,39 +21,31 @@ description = "Curriculum Vitae - Ferdinand Linnenberg"
 
 ## Profil
 
-**Development Team Lead** mit über 4 Jahren Expertise in Industrial IoT und Cybersecurity bei UMH Systems GmbH. Kernentwickler von Beginn an - verantwortlich für den Aufbau der gesamten Plattform.
+**Software Engineer** mit über 4 Jahren Expertise in Industrial IoT und Cybersecurity bei UMH Systems GmbH. Kernentwickler von Beginn an - verantwortlich für den Aufbau der gesamten Plattform.
 
-- Expertenkenntnisse in **Go** (1.5M+ Zeilen in Produktion) und **Rust**
+- Expertenkenntnisse in **Go** (1.5M+ Zeilen in Produktion)
 - Spezialisierung auf skalierbare Infrastrukturen für industrielle Automatisierung und Open-Source-Plattformen
 - Co-Erfinder eines Patents für sichere IoT-Kommunikation ([US20250279900A1](https://patents.google.com/patent/US20250279900A1))
 - End-to-End Produktentwicklung: Frontend, Backend, Datenbanken, Deployment, Customer Support
-- Karriereentwicklung vom Werkstudent (07/2021) über Software Engineer (11/2021) zum Development Team Lead (09/2022)
+- Teamkoordination zusammen mit dem CTO
 
 📍 **Standort:** Köln, Deutschland · Vor Ort bevorzugt, Remote möglich · Umzugsbereit
 
 ## Berufserfahrung
 
-### Development Team Lead
-**UMH Systems GmbH · Aachen/Köln** · 09/2022 – 31.12.2025
+### Software Engineer
+**UMH Systems GmbH · Aachen/Köln** · 11/2021 – 31.12.2025
 
 - **Kernentwickler von Beginn an** – Aufbau der gesamten Plattform von Grund auf mit dem CTO
-- Leitung eines Entwicklungsteams von 2-4 Entwicklern
-- Leitung der Entwicklung der United Manufacturing Hub Open-Source-Plattform (1.5M+ Zeilen Go-Code)
+- Teamkoordination zusammen mit dem CTO
+- Entwicklung der United Manufacturing Hub Open-Source-Plattform (1.5M+ Zeilen Go-Code)
 - Architektur und Implementierung von Microservices für industrielle Automatisierung
-- Integration industrieller Protokolle (OPC UA, Siemens S7comm, Modbus, Kafka/MQTT)
+- Integration industrieller Protokolle (Kafka, MQTT, OPC UA)
 - Full-Stack-Entwicklung: Cloud SaaS-Plattform (Management Console) mit SvelteKit und Go
 - End-to-End Verantwortung: Frontend, Backend, Datenbanken, Deployment, Customer Support
 - Co-Erfinder eines Patents für sichere IoT-Kommunikation (US20250279900A1, eingereicht 2022)
-- Community Management (332 GitHub Stars, 56 Forks) und technisches Blogging (8+ Artikel)
-- Technologien: Go, Rust, TypeScript, Kubernetes, Docker, PostgreSQL, TimescaleDB
-
-### Software Engineer
-**UMH Systems GmbH · Aachen** · 11/2021 – 09/2022
-
-- Software-Entwicklung für Industrial IoT-Lösungen
-- Backend-Services und API-Implementierung
-- Container-Orchestrierung und DevOps-Prozesse
-- Integration industrieller Protokolle
+- Community Management und technisches Blogging (8+ Artikel)
+- Technologien: Go, TypeScript, Kubernetes, Docker, PostgreSQL, TimescaleDB, Grafana, Node-RED
 
 ### Werkstudent
 **UMH Systems GmbH · Aachen** · 07/2021 – 11/2021
@@ -86,13 +78,13 @@ description = "Curriculum Vitae - Ferdinand Linnenberg"
 
 **Container & Cloud:** Docker, Kubernetes, Helm, Cloudflare, Heroku, Proxmox, Fly.io
 
-**Industrial Protocols:** Kafka, MQTT, OPC UA, Siemens S7comm, Modbus, IO-Link, Beckhoff ADS
+**Industrial Protocols:** Kafka, MQTT, OPC UA, IO-Link, Beckhoff ADS
 
 **Web Development:** SvelteKit, Tailwind CSS, Next.js, React, Gin, Rocket, tRPC
 
 **Datenbanken:** PostgreSQL, TimescaleDB, CockroachDB, SQLite, Redis, DragonflyDB
 
-**DevOps & Tools:** GitHub Actions, Drone CI, Git, CI/CD, Prometheus, Grafana, Sentry, Tailscale, WireGuard, WebAssembly (WASM)
+**DevOps & Tools:** GitHub Actions, Drone CI, Git, CI/CD, Prometheus, Grafana, Node-RED, Sentry, Tailscale, WireGuard, WebAssembly (WASM)
 
 **Sprachen:** Deutsch (Muttersprache), Englisch (Fließend)
 
@@ -103,7 +95,7 @@ description = "Curriculum Vitae - Ferdinand Linnenberg"
 
 - Enterprise-Grade Industrial IoT-Plattform für Fabrikdaten-Erfassung und -Verwaltung
 - 1.5M+ Zeilen Go-Code in Produktion · Edge-to-Cloud Deployment
-- 332 GitHub Stars, 56 Forks · Aktive Open-Source-Community
+- Aktive Open-Source-Community
 - Technologien: Go, Kubernetes, Docker, TimescaleDB, Kafka
 - [github.com/united-manufacturing-hub](https://github.com/united-manufacturing-hub)
 
@@ -111,7 +103,7 @@ description = "Curriculum Vitae - Ferdinand Linnenberg"
 **Open Source · Beruflich** · seit 11/2021
 
 - Spezialisierte Benthos-Fork für Manufacturing-Protokoll-Integration
-- OPC UA, Siemens S7comm, Modbus, IO-Link, Beckhoff ADS
+- OPC UA, IO-Link, Beckhoff ADS
 - ~15K Zeilen Protokoll-Implementierung · Data Extractor für UMH (Industrial → Kafka)
 - [github.com/united-manufacturing-hub/benthos-umh](https://github.com/united-manufacturing-hub/benthos-umh)
 
