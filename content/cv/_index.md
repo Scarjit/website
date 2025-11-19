@@ -3,20 +3,18 @@ title = "Lebenslauf"
 description = "Curriculum Vitae - Ferdinand Linnenberg"
 +++
 
-<div class="language-selector" style="text-align: right; margin-bottom: 20px;">
-<span style="display: inline-block; padding: 5px 15px; border: 2px solid var(--accent-color); background: var(--accent-color); color: var(--background-color); border-radius: 3px;">🇩🇪 Deutsch</span>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/cv-en/" style="display: inline-block; padding: 5px 15px; border: 2px solid var(--accent-color); text-decoration: none; border-radius: 3px;">🇬🇧 English</a>
+<div class="language-selector">
+<span>🇩🇪 Deutsch</span>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/cv-en/">🇬🇧 English</a>
 </div>
 
-<div class="cv-header" style="text-align: center; padding-bottom: 30px; border-bottom: 3px solid var(--accent-color); margin-bottom: 35px;">
-
-# Ferdinand Linnenberg
-
-**Software Engineer | Industrial IoT & Cybersecurity**
-
-📧 [ferdinand@linnenberg.dev](mailto:ferdinand@linnenberg.dev) · 📍 Köln, Deutschland
-
-🔗 [LinkedIn](https://www.linkedin.com/in/ferdinand-linnenberg/) · 💻 [GitHub](https://github.com/Scarjit) · 🌐 [linnenberg.dev](https://linnenberg.dev/)
-
+<div class="cv-header">
+<div class="cv-header-text">
+<h1>Ferdinand Linnenberg</h1>
+<p><strong>Software Engineer | Industrial IoT & Cybersecurity</strong></p>
+<p>📧 <a href="mailto:ferdinand@linnenberg.dev">ferdinand@linnenberg.dev</a> · 📍 Köln, Deutschland</p>
+<p>🔗 <a href="https://www.linkedin.com/in/ferdinand-linnenberg/">LinkedIn</a> · 💻 <a href="https://github.com/Scarjit">GitHub</a> · 🌐 <a href="https://linnenberg.dev/">linnenberg.dev</a></p>
+</div>
+<img src="/images/ferdinand.jpg" alt="Ferdinand Linnenberg" class="cv-header-image" />
 </div>
 
 ## Profil

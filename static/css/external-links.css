@@ -21,3 +21,50 @@ a[href^="mailto:"]::after {
 .footer a::after {
     display: none;
 }
+
+/* Language Selector */
+.language-selector {
+    text-align: right;
+    margin-bottom: 20px;
+}
+
+.language-selector span,
+.language-selector a {
+    display: inline-block;
+    padding: 5px 15px;
+    border: 2px solid var(--accent-color);
+    border-radius: 3px;
+}
+
+.language-selector span {
+    background: var(--accent-color);
+    color: var(--background-color);
+}
+
+.language-selector a {
+    text-decoration: none;
+}
+
+/* CV Header Layout */
+.cv-header {
+    display: flex !important;
+    align-items: center !important;
+    gap: 30px !important;
+    padding-bottom: 30px !important;
+    border-bottom: 3px solid var(--accent-color) !important;
+    margin-bottom: 35px !important;
+}
+
+.cv-header-text {
+    flex: 1 !important;
+    text-align: center !important;
+}
+
+.cv-header-image {
+    width: 150px !important;
+    height: 150px !important;
+    border-radius: 50% !important;
+    object-fit: cover !important;
+    border: 3px solid var(--accent-color) !important;
+    flex-shrink: 0 !important;
+}
