@@ -74,7 +74,7 @@ description = "Curriculum Vitae - Ferdinand Linnenberg"
 
 ## Skills
 
-**Programming Languages:** Go (Expert), Rust (Expert), TypeScript/JavaScript (Advanced), Python (Advanced), Lua (Advanced), C/C++ (Basic)
+**Programming Languages:** Go (Expert), Rust (Advanced), TypeScript/JavaScript (Advanced), Python (Advanced), Lua (Advanced), C/C++ (Basic)
 
 **Container & Cloud:** Docker, Kubernetes, Helm, Cloudflare, Heroku, Proxmox, Fly.io
 
