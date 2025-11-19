@@ -14,7 +14,13 @@ description = "Curriculum Vitae - Ferdinand Linnenberg"
 <p>📧 <a href="mailto:ferdinand@linnenberg.dev">ferdinand@linnenberg.dev</a> · 📍 Cologne, Germany</p>
 <p>🔗 <a href="https://www.linkedin.com/in/ferdinand-linnenberg/">LinkedIn</a> · 💻 <a href="https://github.com/Scarjit">GitHub</a> · 🌐 <a href="https://linnenberg.dev/">linnenberg.dev</a></p>
 </div>
-<img src="/images/ferdinand.jpg" alt="Ferdinand Linnenberg" class="cv-header-image" />
+
+<picture class="cv-header-image">
+    <source srcset="/images/ferdinand.avif" type="image/avif">
+    <source srcset="/images/ferdinand.webp" type="image/webp">
+    <img src="/images/ferdinand.jpg" alt="Ferdinand Linnenberg">
+</picture>
+
 </div>
 
 ## Profile
