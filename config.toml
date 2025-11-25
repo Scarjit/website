@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://linnenberg.dev"
+base_url = "/"
 
 # Used in RSS by default
 title = "linnenberg.dev"
