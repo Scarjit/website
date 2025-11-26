@@ -16,6 +16,7 @@ description = "Curriculum Vitae - Ferdinand Linnenberg"
 </div>
 
 <picture class="cv-header-image">
+    <source srcset="/images/ferdinand.jxl" type="image/jxl">
     <source srcset="/images/ferdinand.avif" type="image/avif">
     <source srcset="/images/ferdinand.webp" type="image/webp">
     <img src="/images/ferdinand.jpg" alt="Ferdinand Linnenberg">
